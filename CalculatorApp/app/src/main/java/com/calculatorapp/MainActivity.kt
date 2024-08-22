@@ -213,7 +213,7 @@ fun CalculatorApp() {
 
 
 
-@Preview(showBackground = true, showSystemUi = true)
+5@Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun CalculatorAppPreview() {
 //    CalculatorAppTheme {
